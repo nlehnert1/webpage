@@ -1,0 +1,29 @@
+body, html {
+    background-color: yellow;
+}
+
+.center {
+    font: sans-serif;
+    width: 99%;
+    color: royalblue;
+    text-align: center;
+    border: 3px solid green;
+}
+
+.interactables {
+    text-align: center;
+}
+
+.Mathas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.warning {
+    width: 99%;
+    color: red;
+    text-align: center;
+    border: 10px solid hotpink
+}
